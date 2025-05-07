@@ -59,13 +59,20 @@ def q_learning(env,
 
 ## OUTPUT:
 ### Optimal State Value Functions:
-![image](https://github.com/user-attachments/assets/ff54342a-73de-4245-a55a-c313613c8509)
+![image](https://github.com/user-attachments/assets/8ad374a3-171d-40f0-8e9f-1f9e871f49d7)
+
+
+
 ### Optimal Action Value Functions:
-![image](https://github.com/user-attachments/assets/93aae85d-05af-48e4-a03e-ac53122d03eb)
+![image](https://github.com/user-attachments/assets/97d2b63e-ba71-4405-a1cc-d76fca843bec)
+![image](https://github.com/user-attachments/assets/049847c8-34bc-487d-9471-0d339252d2b6)
+
 ### State value functions of Monte Carlo method:
-![image](https://github.com/user-attachments/assets/44b51ba1-9c08-4d91-b33e-24e49a60f41b)
+![image](https://github.com/user-attachments/assets/38ebc751-b317-46c6-9633-a55c7b12d0f5)
+
 ### State value functions of Qlearning method:
-![image](https://github.com/user-attachments/assets/ccc6151e-c6ff-4602-8379-a4711580db5a)
+![image](https://github.com/user-attachments/assets/58ddc477-595b-4afe-b51a-08799a08fea7)
+
 
 ## RESULT:
 Thus, Q-Learning outperformed Monte Carlo in finding the optimal policy and state values for the RL problem.
